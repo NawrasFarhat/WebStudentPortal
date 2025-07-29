@@ -1,0 +1,10 @@
+
+# This file is informational; PHP projects don't use pip packages.
+# To run this project, make sure the following are available:
+
+Apache (via XAMPP or similar)
+PHP >= 7.0
+MySQL or MariaDB
+phpMyAdmin (optional, for easier DB import)
+
+# No pip or composer packages required.

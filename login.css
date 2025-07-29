@@ -1,0 +1,20 @@
+.logindiv{
+    background-color:violet;
+    border: 5px slategrey solid;
+    border-radius: 20px;
+    margin-top: 250px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 60px;
+    padding-right: 40px;
+    width: 350px;
+    margin-left: 500px;
+    box-shadow: 15px 15px darkgrey;    
+}
+.newuser{
+    color: darkblue;
+   font-size: larger;
+    padding-left: 95px;
+    text-decoration:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
