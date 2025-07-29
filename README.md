@@ -64,5 +64,4 @@ It does not implement password encryption or security best practices.
 
 ## 👨‍💻 Author
 
-Developed by **[NawrasFarhat]**  
-🔗 GitHub: [https://github.com/NawrasFarhat]
+Developed by **[NawrasFarhat](https://github.com/NawrasFarhat)**
